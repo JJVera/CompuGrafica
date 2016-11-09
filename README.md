@@ -2,4 +2,4 @@
 
 Este repositorio contiene los juegos diseñados para el curso de Computación Gráfica  en **Python** 
 
-Desarrollado por Juan José Vera Arango
+Desarrollado por **Juan José Vera Arango**
